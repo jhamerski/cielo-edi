@@ -80,8 +80,10 @@ Thumbs.db
 
 # Project specific
 *.txt
-!requirements*.txt
 *.json
 *.csv
 COMMANDS
 /blob/
+cielo-schema-v1.sql
+cielo-schema-v2.sql
+requirements.txt
